@@ -1,5 +1,8 @@
 <h1 align="center"> Hi there, I'm Ayush</h1>
 
+<p align = "center">
+   <a href="https://www.linkedin.com/in/ayush-sharma-884595255/">LinkedIn</a>
+   
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
